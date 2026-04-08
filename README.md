@@ -48,7 +48,7 @@ A visually rich and interactive **wall calendar component** built using React, i
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/interactive-calendar.git
+git clone https://github.com/Shirishkurariya18/calendar-project.git
 cd interactive-calendar
 ```
 
@@ -99,13 +99,13 @@ This project is inspired by a **physical wall calendar layout**, focusing on:
 
 ## 📸 Demo
 
-👉 (Add your deployed link here – Vercel recommended)
+👉 (https://calendar-react-project-git-main-shirishkurariya18s-projects.vercel.app/)
 
 ---
 
 ## 🎥 Video Walkthrough
 
-👉 (Add Loom / YouTube demo link here)
+👉 (https://drive.google.com/file/d/1AsQ96-uQxlnMab-3WtwSNBAoAVXPqaLR/view?usp=sharing)
 
 ---
 
