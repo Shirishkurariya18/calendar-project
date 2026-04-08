@@ -49,7 +49,7 @@ A visually rich and interactive **wall calendar component** built using React, i
 
 ```bash
 git clone https://github.com/Shirishkurariya18/calendar-project.git
-cd interactive-calendar
+cd calendar-project
 ```
 
 ### 2. Install dependencies
